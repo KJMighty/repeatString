@@ -7,6 +7,4 @@ function repeatString(string, times){
     return myName;
 }
 
-repeatString('Kai Mighty ', 5);
-
 module.exports = repeatString;
